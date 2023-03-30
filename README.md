@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Luiz Gustavo
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Terraform and Java**
 - 📫 How to reach me: **luizpaiva043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
