@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Luiz Gustavo
 
+- 🔭 I’m currently working for KXC as Cloud Solutions Architect
 - 🌱 I’m currently learning **Terraform and Go**
 - 📫 How to reach me: **luizpaiva043@gmail.com**
 
